@@ -9,4 +9,4 @@ Rotacao x
 Rotacao y
 0
 Rotacao z
-180
+0
