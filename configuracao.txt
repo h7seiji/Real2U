@@ -1,0 +1,12 @@
+Posicao x
+-1
+Posicao y
+1
+Posicao z
+1
+Rotacao x
+270
+Rotacao y
+0
+Rotacao z
+-90
