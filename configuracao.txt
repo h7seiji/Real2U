@@ -1,7 +1,7 @@
 Posicao x
-1
-Posicao y
 0
+Posicao y
+1
 Posicao z
 0
 Rotacao x
