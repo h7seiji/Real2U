@@ -3,10 +3,10 @@ Posicao x
 Posicao y
 0
 Posicao z
-2
+0
 Rotacao x
 0
 Rotacao y
-180
+0
 Rotacao z
 0
